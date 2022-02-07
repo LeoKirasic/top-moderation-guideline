@@ -20,7 +20,7 @@
 - should be covered for both mobile and desktop
 - if a person is private threaded, there should be a note made on them (this could possibly be moved to zaps once we start using them)
 - moderation should be done primarily in private threads, not publicly
-- users should be addressed via private threads, but explaining the reasoning publicly after is beneficial for future cases (study: https://twitter.com/emollick/status/1457918177946570754?s=21)
+- users should be addressed via private threads, giving the explanation is beneficial for future cases (study: https://twitter.com/emollick/status/1457918177946570754?s=21)
 
 ## explain how to use zaps appropriatlely, especially: 
 
